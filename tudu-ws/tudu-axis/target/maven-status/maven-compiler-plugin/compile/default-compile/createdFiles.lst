@@ -1,0 +1,9 @@
+tudu\web\ws\axis\AxisTuduListsService.class
+tudu\web\ws\axis\AxisTuduLists.class
+tudu\web\ws\TuduListsWebService.class
+tudu\web\ws\axis\AxisTuduListsServiceLocator.class
+tudu\web\ws\impl\TuduListsWebServiceImpl.class
+tudu\web\ws\bean\WsTodo.class
+tudu\web\ws\bean\WsTodoList.class
+tudu\web\ws\axis\TuduListsWebServiceSoapBindingImpl.class
+tudu\web\ws\axis\TuduListsWebServiceSoapBindingStub.class

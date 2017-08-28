@@ -1,0 +1,5 @@
+tudu\web\servlet\RssFeedServletTest.class
+tudu\web\dwr\impl\TodoListsDwrImplTest.class
+tudu\web\servlet\BackupServletTest.class
+tudu\web\dwr\impl\TodosDwrImplTest.class
+tudu\web\dwr\impl\TestableTodosDwrImpl.class

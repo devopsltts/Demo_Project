@@ -1,0 +1,4 @@
+tudu\web\ws\TuduListsWebService.class
+tudu\web\ws\bean\WsTodoList.class
+tudu\web\ws\impl\TuduListsWebServiceImpl.class
+tudu\web\ws\bean\WsTodo.class
